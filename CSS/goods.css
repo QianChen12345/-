@@ -1,0 +1,42 @@
+.listcontainer {
+	display: flex;
+	padding: 10px 5px;
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.listimage {
+	margin-right: 10px;
+
+	
+}
+.imagewh {
+		width: 100px;
+		height: 100px;
+	}
+.list {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100px;
+
+
+
+
+
+}
+
+.name {
+	font-size: 18px;
+}
+
+.price {
+	color: #c00000;
+	font-size: 18px;
+
+}
+
+.describle {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

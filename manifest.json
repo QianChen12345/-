@@ -16,7 +16,13 @@
             "autoclose" : true,
             "delay" : 0
         },
+<<<<<<< HEAD
         "modules" : {},
+=======
+        "modules" : {
+            "Payment" : {}
+        },
+>>>>>>> dc1d0b5 (FirstMarket)
         /* 模块配置 */
         "distribute" : {
             /* 应用发布信息 */
@@ -42,7 +48,19 @@
             },
             "ios" : {},
             /* ios打包配置 */
+<<<<<<< HEAD
             "sdkConfigs" : {}
+=======
+            "sdkConfigs" : {
+                "payment" : {
+                    "weixin" : {
+                        "__platform__" : [ "ios", "android" ],
+                        "appid" : "wxbda069ef00b15893",
+                        "UniversalLinks" : ""
+                    }
+                }
+            }
+>>>>>>> dc1d0b5 (FirstMarket)
         }
     },
     /* SDK配置 */
@@ -53,9 +71,27 @@
         "appid" : "wxbda069ef00b15893",
         "setting" : {
             "urlCheck" : true,
+<<<<<<< HEAD
 			"checkSiteMap":false
         },
         "usingComponents" : true
     },
     "vueVersion" : "3"
+=======
+            "checkSiteMap" : false
+        },
+        "usingComponents" : true,
+        "permission" : {
+            "scope.userLocation" : {
+                "desc" : "做毕业设计"
+            }
+        }
+    },
+    "vueVersion" : "3",
+    "h5" : {
+        "sdkConfigs" : {
+            "maps" : {}
+        }
+    }
+>>>>>>> dc1d0b5 (FirstMarket)
 }

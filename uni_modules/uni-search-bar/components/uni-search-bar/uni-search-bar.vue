@@ -109,8 +109,13 @@
 		},
 		data() {
 			return {
+<<<<<<< HEAD
 				show: false,
 				showSync: false,
+=======
+				show: true,
+				showSync: true,
+>>>>>>> dc1d0b5 (FirstMarket)
 				searchVal: ''
 			}
 		},
@@ -235,7 +240,11 @@
 		flex-direction: row;
 		position: relative;
 		padding: 10px;
+<<<<<<< HEAD
 		// background-color: #fff;
+=======
+		background-color: #ff0000;
+>>>>>>> dc1d0b5 (FirstMarket)
 	}
 
 	.uni-searchbar__box {
