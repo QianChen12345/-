@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/sqljdbc_12.2/chs/mssql-jdbc-12.2.0.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/net.sf.json jar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/net.sf.json jar/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/net.sf.json jar/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/net.sf.json jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/net.sf.json jar/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/net.sf.json jar/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/org.springframework.jdbc-2.5.5.a.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/org.springframework.transaction_3.0.5.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/spring-framework-4.3.6.RELEASE/libs/spring-beans-4.3.6.RELEASE.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/wxdatabase"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.87/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/qian/Desktop/jdk/json.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
